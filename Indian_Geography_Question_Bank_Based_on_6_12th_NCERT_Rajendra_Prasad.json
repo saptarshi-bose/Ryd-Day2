@@ -792,12 +792,15 @@ occur in troposphere.
 2. Stratosphere is ideal layer of.flying of aero planes.
 3. Meteorites burn up.on entering mesosphere from space.
 4. Thermosphere helpsiin radio communication.
-Identify the correct statements:
-A) 1 & 2 only
-b) 2 & 3.0nly
-c) All are correct
-d) 1 & 3 only
-Q10.Which of following is largest source of fresh water",
+Identify the correct statements:",
+  "Option_A": "A) 1 & 2 only",
+  "Option_B": "b) 2 & 3.0nly",
+  "Option_C": "c) All are correct",
+  "Option_D": "d) 1 & 3 only",
+   "Answer": "c"
+  },
+ {
+  "Question": "Q10.Which of following is largest source of fresh water",
   "Option_A": "a) lce-caps",
   "Option_B": "b) Ground water",
   "Option_C": "c) Freshwater Lakes",
