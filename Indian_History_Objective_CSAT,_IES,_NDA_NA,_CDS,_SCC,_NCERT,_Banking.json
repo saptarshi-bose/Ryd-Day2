@@ -536,12 +536,11 @@ advocates the worship of",
   "Option_A": "(a) Vishnu",
   "Option_B": "(b) Ram and Krishna",
   "Option_C": "(c) Vishnu and his,incarnations",
-  "Option_D": "(d) Vishnu and Lakshmi",
-  "Answer": "Bhagavatism,"
+  "Option_D": "(d) Vishnu and Lakshmi,Bhagavatism",
+  "Answer": "Ans: (c)"
  },
  {
-  "Question": "ns: (c)
-b3. The Hindu social sacraments such as marriage etc. are
+  "Question": "b3. The Hindu social sacraments such as marriage etc. are
 performed on,the basis of the rituals described in the",
   "Option_A": "(a) Rigveda",
   "Option_B": "(b) Yajurveda",
@@ -625,10 +624,10 @@ kist-2
 (iv) Lumbini
 CodeAns:
 A B C d",
-  "Option_A": "(a)xi ii iii",
-  "Option_B": "(b) sii i iv",
-  "Option_C": "(c) iii ii i",
-  "Option_D": "(d) Iv iii ii",
+  "Option_A": "(a)iv i ii iii",
+  "Option_B": "(b)iii ii i iv",
+  "Option_C": "(c)iv iii ii i",
+  "Option_D": "(d)i Iv iii ii",
   "Answer": "Ans: (d)"
  },
  {
@@ -3811,12 +3810,14 @@ be Brahmanas and staunch supporters of Brahmanism were",
   "Answer": "145. The successors of the Satavahanas in the Deccan were the"
  },
  {
-  "Question": "a) Vakatakas
-(b) Kadambas
-(c) Rashtrakutas
-(d) Chalukyas of Badami
-Ans: (a)
-4b. The painting In the Ajanta Caves shows,an Indian king
+  "Question": "a) Vakatakas",
+  "Option_B": "(b) Kadambas",
+  "Option_C": "(c) Rashtrakutas",
+  "Option_D": "(d) Chalukyas of Badami,
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "4b. The painting In the Ajanta Caves shows,an Indian king
 receiving an embassy from the king or’Persia. The king
 receiving the embassy has been identified with",
   "Option_A": "(a) Pulakesin |",
@@ -3973,13 +3974,15 @@ Valley people?",
   "Answer": "Ans: (d)"
  },
  {
-  "Question": "b4. In Jainism, ‘perfect knowledge’ is referred to as
-ina
-(b) Ratna
-(c) Kaivalya
-(d) Nirvana
-Ans : c
-1b5. The Buddhist sect Mahayana formally came into existence
+  "Question": "b4. In Jainism, ‘perfect knowledge’ is referred to as",
+  "Option_A": "Rina",
+  "Option_B": "(b) Ratna",
+  "Option_C": "(c) Kaivalya",
+  "Option_D": "(d) Nirvana",
+  "Answer": "Ans : c"
+ },
+ {
+  "Question": "1b5. The Buddhist sect Mahayana formally came into existence
 during the reign of",
   "Option_A": "(a) Ajatashatru",
   "Option_B": "(b) Ashoka",
@@ -4012,15 +4015,18 @@ during the Gupta Period?",
   "Option_B": "(b) Sudraka",
   "Option_C": "(c) Shaunaka",
   "Option_D": "(d) Susruta",
-  "Answer": "u is associated with"
+  "Answer": "d "
  },
  {
-  "Question": "a) Emperor Ashoka
-(b) Sri Krishnadeva Roya
-(c) Lord Mahavira
-(d) Lord Buddha
-Ans: (d)
-170. The ninth incarnation (Avtar) of Vishnu was",
+  "Question": "Who is associated with",
+  "Option_A": "(a) Emperor Ashoka",
+  "Option_B": "(b) Sri Krishnadeva Roya",
+  "Option_C": "(c) Lord Mahavira",
+  "Option_D": "(d) Lord Buddha",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "170. The ninth incarnation (Avtar) of Vishnu was",
   "Option_A": "(a) Parasurama",
   "Option_B": "(b) Buddha",
   "Option_C": "(c) Krishna",
@@ -4329,13 +4335,15 @@ Akbarnama and Ain-i-Akbari, was",
   "Answer": "Ans: (c)"
  },
  {
-  "Question": ". Akbar granted the present site of Amritsar to the Sikh Guru
-mar Das
-(b) Angad
-(c) Ram Das
-(d) Arjan
-Ans: (a)
-b. Mansabdari System was founded by Akbar. The. Mansabdars
+  "Question": ". Akbar granted the present site of Amritsar to the Sikh Guru",
+  "Option_A": "(a)Amar Das",
+  "Option_B": "(b) Angad",
+  "Option_C": "(c) Ram Das",
+  "Option_D": "(d) Arjan,
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "b. Mansabdari System was founded by Akbar. The. Mansabdars
 were",
   "Option_A": "(a) military commanders",
   "Option_B": "(b) provincial governors",
@@ -4345,8 +4353,8 @@ were",
  },
  {
   "Question": ". The most important poet at the,court of Mahmud of Ghazni,
-who wrote Shahnama and is regarded as the "Immortal
-Homer of the East" was",
+who wrote Shahnama and is regarded as the 'Immortal
+Homer of the East' was",
   "Option_A": "(a) Utbi",
   "Option_B": "(b) Firdausi",
   "Option_C": "(c) Alberuni",
@@ -4685,13 +4693,15 @@ Maratha King",
  },
  {
   "Question": "3. Which of the following buildings at Fatehpur Sikri is known
-as lbadatkhana where Akbar used to hold religious
-am
-(b) Diwan-i-Khas
-(c) Panch Mahal
-(d) Jami Masjid
-Ans: (b)
-44. Nur Jehan is associated with the construction of",
+as lbadatkhana where Akbar used to hold religious",
+  "Option_A": "(a)ambar,
+  "Option_B": "(b) Diwan-i-Khas",
+  "Option_C": "(c) Panch Mahal",
+  "Option_D": "(d) Jami Masjid",
+  "Answer": "Ans: (b)"
+ },
+ {
+  "Question": "44. Nur Jehan is associated with the construction of",
   "Option_A": "(a) Her husband's tomb at Shahdara (Lahore)",
   "Option_B": "(b) Her father Itimad-ud-Daulah's tomb at.Agra",
   "Option_C": "(c) Akbar's tomb at Sikandra (Agr(a)",
@@ -5392,17 +5402,19 @@ India‘in the century?",
   "Option_A": "(a) 11th",
   "Option_B": "(b) 12th",
   "Option_C": "(c) 14th",
-  "Option_D": "(d) 13"",
+  "Option_D": "(d) 13",
   "Answer": "Ans: (a)"
  },
  {
-  "Question": "9. The Sufi Saint, contemporary of Prithviraj Chauhan, was
- Khwaja Muinuddin Chisti
-(b) Sheikh Salim Chisti
-(c) Sheikh Nizamuddin Auliya
-(d) Baba Farid
-Ans: (a)
-20. Different Sufi schools or orders in India were known as",
+  "Question": "9. The Sufi Saint, contemporary of Prithviraj Chauhan, was",
+  "Option_A": "(a) Khwaja Muinuddin Chisti",
+  "Option_B": "(b) Sheikh Salim Chisti",
+  "Option_C": "(c) Sheikh Nizamuddin Auliya",
+  "Option_D": "(d) Baba Farid",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "20. Different Sufi schools or orders in India were known as",
   "Option_A": "(a) Khangahs",
   "Option_B": "(b) Qalandars",
   "Option_C": "(c) Silsilahs",
@@ -5921,15 +5933,18 @@ Sultan Mahmud of Ghazni?",
   "Option_B": "(b) Ghiyasuddin Balban",
   "Option_C": "(c) Samsuddin Iltutmish",
   "Option_D": "(d) Nasiruddin Mahmood",
-  "Answer": "Ans: (a)Ayagara in Vijayanagar were"
+  "Answer": "Ans: (a)"
  },
  {
-  "Question": "a) Adiministrators of Nadus
-(b) Governors of Provinces
-(c) Administrators of Kottams
-(d) Village functionaries
-Ans: (d)
-79. Who was the author of Amuktamalyada?",
+  "Question": "Ayagara in Vijayanagar were",
+  "Option_A": "(a) Adiministrators of Nadus",
+  "Option_B": "(b) Governors of Provinces",
+  "Option_C": "(c) Administrators of Kottams",
+  "Option_D": "(d) Village functionaries",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "79. Who was the author of Amuktamalyada?",
   "Option_A": "(a) Bhoja",
   "Option_B": "(b) Harshavardhana",
   "Option_C": "(c) Krishnadeva Raya",
@@ -6006,12 +6021,14 @@ kingdom.in the Deccan?",
   "Answer": "88. The Nobility of the Delhi Sultanate was largely composed of"
  },
  {
-  "Question": "a) Afghans
-(b) Arabs
-(c) Turks
-(d) Composite elements
-Ans: (c)
-89. The largest standing army of the Delhi, Sultanate directly
+  "Question": "a) Afghans",
+  "Option_B": "(b) Arabs",
+  "Option_C": "(c) Turks",
+  "Option_D": "(d) Composite elements",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "89. The largest standing army of the Delhi, Sultanate directly
 paid by the State was created by",
   "Option_A": "(a) Balban",
   "Option_B": "(b) Iltutmish",
@@ -6042,17 +6059,20 @@ south India was",
 92. Who among the following founded the city of Ahmedabad?",
   "Option_A": "(a) Muzaffar Shah IIAhmad Shah",
   "Option_B": "(c) Qutub-ud-din Ahmad Shah",
-  "Option_C": "(d) Muhammad | Begarha",
-  "Option_D": "Ans: (b)",
-  "Answer": "93. Vijayanagar was founded on the southern bank of theriver"
+  "Option_C": "(d) Muhammad ",
+  "Option_D": "| Begarha",
+  "Answer": "Ans: (b)"
  },
  {
-  "Question": "a) Godavari
-(b) Krishna
-(c) Narmada
-(d) Tungabhadra
-Ans: (d)
-94. Who was the founder of Aravidu dynasty of the Vijayanagar
+  "Question": "93. Vijayanagar was founded on the southern bank of theriver",
+  "Option_A": "a) Godavar",
+  "Option_B": "(b) Krishna",
+  "Option_C": "(c) Narmada",
+  "Option_D": "(d) Tungabhadra",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "94. Who was the founder of Aravidu dynasty of the Vijayanagar
 Empire?",
   "Option_A": "(a) Tirumala",
   "Option_B": "(b) Sadasiva Raya",
@@ -6085,12 +6105,14 @@ Empire?",
   "Answer": "98. Who was the patron deity of Vijayanagar?"
  },
  {
-  "Question": "a) Virupaksha
-(b) Narasimha
-(c) Vittalaswamy
-(d) Venugoplal swamy
-Ans: (a)
-99. What was the bone of contention between Vijayanagar and
+  "Question": "a) Virupaksha",
+  "Option_B": "(b) Narasimha",
+  "Option_C": "(c) Vittalaswamy",
+  "Option_D": "(d) Venugoplal swamy",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "99. What was the bone of contention between Vijayanagar and
 the Bahmani Kingdoms?",
   "Option_A": "(a) Krishna Delta",
   "Option_B": "(b) Raichur Doab",
@@ -6118,19 +6140,22 @@ for the failure of Raziya?",
  },
  {
   "Question": "02. What is meant by "The Forty” or "Chalisa"?",
-  "Option_A": "(a) The cream of Afghan noblesThe pick of the intellectuals among the Khaljis",
-  "Option_B": "(c) The select body of the Turkish Aristocracy",
-  "Option_C": "(d) The ulema or the Muslim divines",
-  "Option_D": "Ans: (c)",
-  "Answer": "103. Who were called the New Muslims?"
+  "Option_A": "(a) The cream of Afghan nobles",
+  "Option_B": "b)The pick of the intellectuals among the Khaljis",
+  "Option_C": "(c) The select body of the Turkish Aristocracy",
+  "Option_D": "(d) The ulema or the Muslim divines",
+  "Answer": "Ans: (c)"
  },
  {
-  "Question": "a) Hindu converts to Islam
-(b) Mongol converts to Islam
-(c) Turkish converts to Islam
-(d) Persian converts to Islam
-Ans: (b)
-104. Who was the founder of Srivaishnava sect?",
+  "Question": "103. Who were called the New Muslims?",
+  "Option_A": "a) Hindu converts to Islam",
+  "Option_B": "(b) Mongol converts to Islam",
+  "Option_C": "(c) Turkish converts to Islam",
+  "Option_D": "(d) Persian converts to Islam",
+  "Answer": "Ans: (b)"
+ },
+ {
+  "Question": "104. Who was the founder of Srivaishnava sect?",
   "Option_A": "(a) Nathamuni",
   "Option_B": "(b) Uyyakondar",
   "Option_C": "(c) Yamunacharya",
@@ -6157,12 +6182,15 @@ service-of Alauddin?",
  },
  {
   "Question": "07. What was the most important cause of the invasion of
-Ghazni Mahmud?destroy idolatory
-b) To gain possession of the wealth of India
-c) To spread Islam into India
-d) To establish a Muslim state in India
-Ans: (b)
-108. To which race did Mahmud of Ghazni belong?",
+Ghazni Mahmud?",
+  "Option_A": "a)destroy idolatory",
+  "Option_B": "b) To gain possession of the wealth of India",
+  "Option_C": "c) To spread Islam into India",
+  "Option_D": "d) To establish a Muslim state in India",
+  "Answer": "Ans: (b)"
+ },
+ {
+  "Question": "108. To which race did Mahmud of Ghazni belong?",
   "Option_A": "(a) Arab",
   "Option_B": "(b) Afghan",
   "Option_C": "(c) Mongol",
@@ -6323,17 +6351,21 @@ the port of",
  {
   "Question": "27. Under the Mughals one of the main imports was",
   "Option_A": "(a) pepper",
-  "Option_B": "(d) opium",
-  "Option_C": "Ans: (b)",
-  "Option_D": "'28. To bring Hindu-Muslim unity, Akbar",
-  "Answer": "(a) encouraged cow-killing"
+  "Option_B": "(b) Raw Silk",
+  "Option_C": "(c) Cotton",
+  "Option_D": "(d) opium'28.",
+  "Answer": "Ans: (d)"
  },
  {
-  "Question": "b) prohibited cow-killing
-(c) taxed cow-killing
-(d) remained silent to cow-killing
-Ans: (b)
-‘29. Babarnama was written by",
+  "Question": "To bring Hindu-Muslim unity, Akbar",
+  "Option_A": "(a) encouraged cow-killing",
+  "Option_B": "(b) prohibited cow-killing",
+  "Option_C": "(c) taxed cow-killing",
+  "Option_D": "(d) remained silent to cow-killing",
+  "Answer": "Ans: (b)"
+ },
+ {
+  "Question": "29. Babarnama was written by",
   "Option_A": "(a) Humayun",
   "Option_B": "(b) Babar",
   "Option_C": "(c) Abul Fazl",
@@ -6471,15 +6503,18 @@ entrusted to the officials known as?",
   "Option_B": "(b) Mansabdar",
   "Option_C": "(c) Kotwal",
   "Option_D": "(d) Amin",
-  "Answer": "'4b. The Adi Granth was compiled by"
+  "Answer": "Ans: (a)"
  },
  {
-  "Question": "a). GuruArjan Dev
-(b), Guru Gobind Singh
-(c) Guru Harkishan
-(d) “Guru Tegh Bahadur
-Ans: (a)
-'47..Guru Arjan Dev transferred the headquarters to",
+  "Question": "'4b. The Adi Granth was compiled by",
+  "Option_A": "(a). GuruArjan Dev",
+  "Option_B": "(b), Guru Gobind Singh",
+  "Option_C": "(c) Guru Harkishan",
+  "Option_D": "(d) “Guru Tegh Bahadur",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "47..Guru Arjan Dev transferred the headquarters to",
   "Option_A": "(a) Agra",
   "Option_B": "(b) Amritsar",
   "Option_C": "(c) Karachi",
@@ -6529,12 +6564,12 @@ parts of the Coast from Sind to.\Bengal by the middle of the",
   "Answer": "'53. Shivaji started his public career at the age of"
  },
  {
-  "Question": "a) 18
-(b) 21
-(c) 23
-(d) 24
-Ans: (a)
-'54. The estate of Shivaji's father was",
+  "Question": "a) 18",
+  "Option_B": "(b) 21",
+  "Option_C": "(c) 23",
+  "Option_D": "(d) 24",
+  "Answer": "Ans: (a)",
+  "Answer": "'54. The estate of Shivaji's father was",
   "Option_A": "(a) Konkan",
   "Option_B": "(b) Poona",
   "Option_C": "(c) Torna",
@@ -6608,12 +6643,15 @@ was known as",
   "Answer": "Ans: (c)"
  },
  {
-  "Question": "b3. The Marathas first served the rulers ofMuhammadan kingdoms of the south
-b) Mughal empire
-c) Vijayanagar
-d) Afghanistan
-Ans: (a)
-'b4. Under the Mughal rule the Chief Minister was known as",
+  "Question": "b3. The Marathas first served the rulers of",
+  "Option_A": "(a)Muhammadan kingdoms of the south",
+  "Option_B": "b) Mughal empire",
+  "Option_C": "c) Vijayanagar",
+  "Option_D": "d) Afghanistan",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "'b4. Under the Mughal rule the Chief Minister was known as",
   "Option_A": "(a) Diwan",
   "Option_B": "(b) Vakil",
   "Option_C": "(c) Kazi",
@@ -6928,14 +6966,18 @@ Governor of",
   "Option_B": "(b) \Fargana",
   "Option_C": "(c), Badakhshan",
   "Option_D": "(d) ‘Herat",
-  "Answer": "Ans: (101..Rana Sanga was the ruler of"
+  "Answer": "Ans: c"
  },
  {
-  "Question": "a) Bijapur
-(b) Mewar
-(c) Marwar
-(d) Punjab
-between Babar and Rana Sanga was fought at",
+  "Question": "101..Rana Sanga was the ruler of",
+  "Option_A": "(a) Bijapur",
+  "Option_B": "(b) Mewar",
+  "Option_C": "(c) Marwar",
+  "Option_D": "(d) Punjab",
+  "Answer": "Ans: c"
+ },
+ {
+  "Question": "between Babar and Rana Sanga was fought at",
   "Option_A": "(a) Panipat",
   "Option_B": "(b) Chunar",
   "Option_C": "(c) Khanwa",
@@ -6948,15 +6990,18 @@ between Babar and Rana Sanga was fought at",
   "Option_B": "(b) Herat",
   "Option_C": "(c) Amarkot",
   "Option_D": "(d) Kabul",
-  "Answer": "(04. Humayun died in the year"
+  "Answer": "c"
  },
  {
-  "Question": "a) 153b
-(b) 154b
-(c) 155b
-(d) 15bb
-Ans: (c)
-105. The original name of Sher Shah was",
+  "Question": "04. Humayun died in the year",
+  "Option_A": "(a) 1536",
+  "Option_B": "(b) 154b",
+  "Option_C": "(c) 155b",
+  "Option_D": "(d) 1566",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "105. The original name of Sher Shah was",
   "Option_A": "(a) Sikandar",
   "Option_B": "(b) Akbar",
   "Option_C": "(c) Farid",
@@ -7237,10 +7282,7 @@ of",
   "Answer": "Ans: (d)"
  },
  {
-  "Question": "ntroduced by the
-339. The Mughal Emperor who caused the murder of Guru Arjan
-Ans: (d)
-40. Original name of Mumtaj Mahal was",
+  "Question": "Original name of Mumtaj Mahal was",
   "Option_A": "(a) Mihr-un-Nisa",
   "Option_B": "(b) Jagat Gosami",
   "Option_C": "(c) Arzumand,Banu",
@@ -7343,14 +7385,18 @@ Monarch",
   "Option_B": "(b) Jami Masjid",
   "Option_C": "(c) Taj Mahal",
   "Option_D": "(d) Fatehpur Sikri",
-  "Answer": "truction of Taj Mahal was directed by"
+  "Answer": "C"
  },
  {
-  "Question": "a) Ustad Isa
-(b) Asaf Khan
-(c) Dara
-(d) Aurangzeb
-Ans: (a)
+  "Question": "construction of Taj Mahal was directed by",
+  "Option_A": "(a) Ustad Isa",
+  "Option_B": "(b) Asaf Khan",
+  "Option_C": "(c) Dara",
+  "Option_D": "(d) Aurangzeb",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "
 54. The title of Mahakavi Rai was given by ShahJahan to",
   "Option_A": "(a) Todar Mal",
   "Option_B": "(b) Birbal",
@@ -7424,13 +7470,15 @@ Ans: (a)
  },
  {
   "Question": "b3. Of the following sons or Aurangzeb who rebelled against
-Aurangzeb?
-bar
-b) Kam Baksh
-c) Muazzam
-d) Azam
-Ans: (a)
-1b4. On behalf of Aurangzeb Shivaji attacked",
+Aurangzeb?",
+  "Option_A": "(a) Babar",
+  "Option_B": "b) Kam Baksh",
+  "Option_C": "c) Muazzam",
+  "Option_D": "d) Azam",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "1b4. On behalf of Aurangzeb Shivaji attacked",
   "Option_A": "(a) Gujarat",
   "Option_B": "(b) Konkan",
   "Option_C": "(c) Surat",
@@ -7438,15 +7486,7 @@ Ans: (a)
   "Answer": "Ans: (b)"
  },
  {
-  "Question": "b5. Mzal Khan who fought with Shivaji was the ruler of
- Bijapur
- Mewar
- Gujarat
-a
-b
-) Bengal
-Ans: (a)
-1bb. Aurangzeb appointed his uncle Shayista Khan as Governor
+  "Question": "1bb. Aurangzeb appointed his uncle Shayista Khan as Governor
 of",
   "Option_A": "(a) Kashmir",
   "Option_B": "(b) Bengal",
@@ -7736,15 +7776,18 @@ golden age of medieval art and architecture?",
   "Option_B": "(b) Badauni",
   "Option_C": "(c) Bhavabhuti",
   "Option_D": "(d) Alberuni",
-  "Answer": "101. The Char Minar had been.constructed by"
+  "Answer": "c"
  },
  {
-  "Question": "a) Ali AdibShah
-(b) Kanishka
-(c) QuliiQutb Shah
-(d) . Jahangir
-Ans: (c)
-102..0f the following European nations, only the did not
+  "Question": "101. The Char Minar had been.constructed by",
+  "Option_A": "(a) Ali AdibShah",
+  "Option_B": "(b) Kanishka",
+  "Option_C": "(c) QuliiQutb Shah,
+  "Option_D": "(d) . Jahangir",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "102..0f the following European nations, only the did not
 attempt-to establish trading centres in India.",
   "Option_A": "(a) Britishers",
   "Option_B": "(b) Dutch",
@@ -7753,12 +7796,7 @@ attempt-to establish trading centres in India.",
   "Answer": "Ans: (d)"
  },
  {
-  "Question": "03. Akbar had constructed several forts, which did not include
-the one of
-Allahabad
- Delhi Red Fort
-Ans: (d)
-104.Name the religious personality who exercised a»great
+  "Question": "104.Name the religious personality who exercised a»great
 influence over Shivaji",
   "Option_A": "(a) Tukaram",
   "Option_B": "(b) Guru Nanak Dev",
@@ -7872,14 +7910,7 @@ was",
   "Answer": "Ans: (b)"
  },
  {
-  "Question": "17. The Mansabdari system introduced by Akbar was borrowed
-from the system prevalent in
-ersia
-(b) Mongolia
-(c) Afghanistan
-(d) Turkey
-Ans: (b)
-118. The East India Company was founded in India during the
+  "Question": "118. The East India Company was founded in India during the
 reign of",
   "Option_A": "(a) Shah Jahan",
   "Option_B": "(b) Jahangir",
@@ -7913,13 +7944,15 @@ reign of",
  },
  {
   "Question": "22. The island of Bombay had been given to the British Prince
-Charles Il as dowry by the
- Dutch
-(b) Portuguese
-(c) Danish
-(d) French
-Ans: (b)
-123. The Dutch first established their hold in India in the»year
+Charles Il as dowry by the",
+  "Option_A": "(a) Dutch",
+  "Option_B": "(b) Portuguese",
+  "Option_C": "(c) Danish",
+  "Option_D": "(d) French",
+  "Answer": "Ans: (b)"
+ },
+ {
+  "Question": "123. The Dutch first established their hold in India in the»year
 1b05 at",
   "Option_A": "(a) Masulipatanam",
   "Option_B": "(b) Surat",
@@ -8159,13 +8192,15 @@ looked after by the",
   "Answer": "Ans: (b)"
  },
  {
-  "Question": "50. Goa had been first colonized by the
- British
-(b) Dutch
-(c) Portuguese
-(d) French
-Ans: (c)
-151. The Gandhara School of Art had been established in
+  "Question": "50. Goa had been first colonized by the",
+  "Option_A": "(a) British",
+  "Option_B": "(b) Dutch",
+  "Option_C": "(c) Portuguese",
+  "Option_D": "(d) French",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "151. The Gandhara School of Art had been established in
 India.",
   "Option_A": "(a) Central",
   "Option_B": "(b) North-eastern",
@@ -8405,13 +8440,15 @@ by a Jains writer of the 10th century His name?",
   "Answer": "Ans: (b)"
  },
  {
-  "Question": "78. "Manisha Panchakam" was composed by
- Sri Ramanuja
-(b) Swami Chinmayananda
-(c) Adi Sankara
-(d) Swami Tejomayananda
-Ans: (c)
-179. Who was the author of Kitab-ul-Hind?",
+  "Question": "78. "Manisha Panchakam" was composed by",
+  "Option_A": "(a) Sri Ramanuja",
+  "Option_B": "(b) Swami Chinmayananda",
+  "Option_C": "(c) Adi Sankara",
+  "Option_D": "(d) Swami Tejomayananda",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "179. Who was the author of Kitab-ul-Hind?",
   "Option_A": "(a) Abu Said",
   "Option_B": "(b) Abul Fazl",
   "Option_C": "(c) Firadausi",
@@ -8623,13 +8660,15 @@ festival of NAUROJ in India?",
  },
  {
   "Question": "ODERN INDIA : QUESTIONS WITH ANSWERS
-Gandhi-Irwin Pact was signed on 15th March
-F(a) 1928
-(b) 1930
-(c) 1931
-(d) 1935
-Ans: (c)
-2. The famous resolution on Non-Cooperation
+Gandhi-Irwin Pact was signed on 15th March",
+  "Option_A": "F(a) 1928",
+  "Option_B": "(b) 1930",
+  "Option_C": "(c) 1931",
+  "Option_D": "(d) 1935",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "2. The famous resolution on Non-Cooperation
 under the inspiration of Mahatma Gandhi‘ was
 adopted in a special session of Congress held
 at Calcutta in",
@@ -8658,13 +8697,15 @@ goal?",
  },
  {
   "Question": ". When was the first Independence day
-unofficially celebrated before Independence?
-n 2bth January 1929
-(b) On 2bth January 1931
-(c) On 2bth January 1935
-(d) On 2bth January 1930
-Ans: (d)
-b. Who was the British Prime Minister who
+unofficially celebrated before Independence?",
+  "Option_A": "(a) 26th January 1929",
+  "Option_B": "(b) On 2bth January 1931",
+  "Option_C": "(c) On 2bth January 1935",
+  "Option_D": "(d) On 2bth January 1930",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "Who was the British Prime Minister who
 convened the First Round Table:Conference in
 London?",
   "Option_A": "(a) Churchill",
@@ -9163,16 +9204,19 @@ Cornwallis is in Bengal is known as",
   "Option_A": "(a) Roytwari System",
   "Option_B": "(b) Mahalwari System",
   "Option_C": "(c) Zamindari System",
-  "Option_D": "59. Who was the first Indian ruler to apply. the",
-  "Answer": "western methods to his administration?"
+  "Option_D": "None of the above",
+  "Answer": "c"
  },
  {
-  "Question": "a) Haider Ali
-(b) Tipu Sultan
-(c) Murshid Quli Khan
-(d) Malhar Rao Holkar
-Ans: (b)
-b0. The capital of Tipu Sultan, where he died while
+  "Question": "59. Who was the first Indian ruler to apply the western methods to his administration?",
+  "Option_A": "(a) Haider Ali",
+  "Option_B": "(b) Tipu Sultan",
+  "Option_C": "(c) Murshid Quli Khan",
+  "Option_D": "(d) Malhar Rao Holkar",
+  "Answer": "Ans: (b)
+ },
+ {
+  "Question": "b0. The capital of Tipu Sultan, where he died while
 fighting the Fourth Anglo-Mysore war in 1799,
 was",
   "Option_A": "(a) Bangalore",
@@ -9223,10 +9267,7 @@ which provided for",
   "Answer": "which the girl was below 14 or the boy was"
  },
  {
-  "Question": "elow 18 years of age
-(d) civil marriages
-Ans: (c)
-b5. The Nawab of Awadh who permanently
+  "Question": "b5. The Nawab of Awadh who permanently
 transferred his capital from Faizabad to
 Lucknow was",
   "Option_A": "(a) Safdarjang",
@@ -9282,17 +9323,14 @@ surfaced In the form of",
 70. The peasant» movements, revolts, riots,
 struggles, etc. in 19 century, India remained
 mainly localised because",
-  "Option_A": "(a) they were mainly directed against",
-  "Option_B": "enhancement in rent, evictions, usurious",
-  "Option_C": "practices of moneylenders, etc.",
-  "Option_D": "(b) the peasants had no leadership and",
-  "Answer": "organisation"
+  "Option_A": "(a) they were mainly directed against enhancement in rent, evictions, usurious practices of moneylenders, etc.",
+  "Option_B": "(b) the peasants had no leadership and organisation",
+  "Option_C": "c) they grew out of local grievances",
+  "Option_D": "(d) the big landlords were allies of the British",
+  "Answer": "Ans: (c)"
  },
  {
-  "Question": "c) they grew out of local grievances
-(d) the big landlords were allies of the British
-Ans: (c)
-. The Deccan Riots of 1874-75 in Maharashtra
+  "Question": "The Deccan Riots of 1874-75 in Maharashtra
 were directed against",
   "Option_A": "(a) Big landlords",
   "Option_B": "(b) Moneylenders",
@@ -9378,17 +9416,15 @@ A B C D E",
  {
   "Question": "8)After the initial success of the Revolt of 1857,
 the objective for which the leaders of the
-Revolt worked was
- to restore the former glory to the Mughal
-empire
-(b) to form a Federation of Indian States\under
-the aegis of Bhadur Shah Il
-(c) elimination of foreign rule and»return of \the
-old order
-(d) each leader wanted to establish his own
-power in his respective region
-Ans: (c)
-79. The Revolt of 1857 failed mainly because",
+Revolt worked was",
+  "Option_A": "(a) to restore the former glory to the Mughal empire",
+  "Option_B": "(b) to form a Federation of Indian States\under the aegis of Bhadur Shah Il",
+  "Option_C": "(c) elimination of foreign rule and»return of \the old order",
+  "Option_D": "(d) each leader wanted to establish his own power in his respective region",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "79. The Revolt of 1857 failed mainly because",
   "Option_A": "(a) of superior resources of the British empire",
   "Option_B": "(b) it was poorly organised and the rebels had",
   "Option_C": "no common ideal",
@@ -9514,38 +9550,7 @@ A B G",
   "Answer": "Ans: (b)"
  },
  {
-  "Question": "0. Match
-the following. social
-modern India ,with_ the
-(iv) Arya Samaj
-(v) Prarthana
-E
-V iV
-V iv
-iv V
-V iv
-reformers of
-institutions they
-founded (including year of their foundation):
-List-l
-A. Vivekananda
-Society (1882)
-B. H P=Blavatsky
-Ramakrishna Mission (1887)
-C..Sir Syed Ahmad Khan
-Movement (1891)
-D. Mirza Ghulam Ahmad
-Movement (1875)
-E. Annie Besant
-Hindu College, Varanasi (1898)
-List-Il
-(i) Theosophical
-(ii)
-(ili) Anmadiya
-(iv) Aligarh
-(v) Central
-Ans: (b)
-91. Match the following social.reformers with the
+  "Question": "91. Match the following social.reformers with the
 pioneering reforms they introduced:
 List-l List-Il
 A. Raja Ram Mohun Roy (i) opposed
@@ -11425,15 +11430,15 @@ commanded\by",
   "Answer": "Ans: (a)"
  },
  {
-  "Question": "82. The Battle of Buxar was fought between the
-combined armies (of the Nawab of Awadh, the
-Mughal Emperor and Mir Kasim Il) and the
- French
-(b) Dutch
-(c) Portuguese
-(d) English
-Ans: (d)
-'83. Who designated the administrative head of the
+  "Question": "82. The Battle of Buxar was fought between the combined armies (of the Nawab of Awadh, theMughal Emperor and Mir Kasim Il) and the",
+  "Option_A": "(a) French",
+  "Option_B": "(b) Dutch",
+  "Option_C": "(c) Portuguese",
+  "Option_D": "(d) English",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "'83. Who designated the administrative head of the
 district as Collector?",
   "Option_A": "(a) Warren Hastings",
   "Option_B": "(b) Cornwallis",
@@ -11771,20 +11776,7 @@ Workers’. Who is referred.in these words",
   "Answer": "Ans: (a)"
  },
  {
-  "Question": "20. Match the following:
-List-l List-ll
-A. Irish Home Rule Movement 1.
-Annie Besant
-B. Home Rule Movement in India 2. Red
-Mond
-C. Ferguson College 3.
-Motilal Nehru
-D. Kashmir 4.
-Gokhale
-CodeAns:
-Wn
-NM = wo
-‘21. The famine in Bihar and Bengal in 1873-74 was
+  "Question": "‘21. The famine in Bihar and Bengal in 1873-74 was
 averted by the timely action of",
   "Option_A": "(a) Minto",
   "Option_B": "(b) Morley",
@@ -11884,12 +11876,11 @@ by",
   "Option_A": "(a) Doctrine of Lapse",
   "Option_B": "(b) The Social Legislation of 185b",
   "Option_C": "(c) The Episode of the Greased Cartridges",
-  "Option_D": "(d) The fear of me Indians that they would be",
-  "Answer": "converted to Christianity"
+  "Option_D": "(d) The fear of me Indians that they would be converted to Christianity",
+  "Answer": "Ans: (c)"
  },
  {
-  "Question": "ns: (c)
-. During the Viceroyalty of Sir John Lawrence
+  "Question": "During the Viceroyalty of Sir John Lawrence
 the bone of contention between India and
 Bhutan was",
   "Option_A": "(a) Duars",
@@ -12291,14 +12282,12 @@ in",
   "Question": "78. An effect of the 1857 revolt was that",
   "Option_A": "(a) The spirit of rebellion iniindian was crushed",
   "Option_B": "(b) The British became*totally demoralized",
-  "Option_C": "(c) The British abandoned their repressive",
-  "Option_D": "policies",
-  "Answer": "(d) Unity was forged between the Hindus and"
+  "Option_C": "(c) The British abandoned their repressive policies",
+  "Option_D": "(d) Unity was forged between the Hindus and Muslims",
+  "Answer": "Ans: (d)"
  },
  {
-  "Question": "uslims
-Ans: (d)
-‘79. The majority of the moderate leaders of India's
+  "Question": "79. The majority of the moderate leaders of India's
 freedom struggle may be traced to hail from",
   "Option_A": "(a)sBengal",
   "Option_B": "(b) \Rural areas",
@@ -12502,15 +12491,19 @@ Hindustan Republican Association?",
   "Option_A": "(a) Calcutta",
   "Option_B": " Madras",
   "Option_C": "Allahabad",
-  "Option_D": ". Who had scrapped the partition of Bengal?",
-  "Answer": "(a) Lord Hardinge"
+  "Option_D": "chennai",
+  "Answer": "A"
  },
  {
-  "Question": "b) Lord Mountbatten
-(c) Lord Lytton
-(d) Lord Wellesley
-Ans: (a)
-02. Mahatma Gandhi had been present at the
+  "Question": ". Who had scrapped the partition of Bengal?",
+  "Option_A": "(a) Lord Hardinge",
+  "Option_B": "(b) Lord Mountbatten
+  "Option_C": "(c) Lord Lytton",
+  "Option_D": "(d) Lord Wellesley",
+  "Answer": "Ans: (a)"
+ },
+ {
+  "Question": "02. Mahatma Gandhi had been present at the
 Round Table Conference(s) held:in London.",
   "Option_A": "(a) Third",
   "Option_B": "(b) Second",
@@ -12567,15 +12560,15 @@ depressed.classes?",
  {
   "Question": "ns: (c)
 los. The Battle of Plassey is a_ particularly
-important event in Indian history because
- The Nawab of Bengal lost in it
-(b) It enabled the British to have power in
-Bengal
-(c) It laid the foundation for British rule insIndia
-(d) It enabled the British to reapyhigher trade
-profits
-Ans: (c)
-lo9. Whom would you associate. with the
+important event in Indian history because",
+  "Option_A": "(a) The Nawab of Bengal lost in it",
+  "Option_B": "(b) It enabled the British to have power in Bengal",
+  "Option_C": "(c) It laid the foundation for British rule in India",
+  "Option_D": "(d) It enabled the British to reapyhigher trade profits",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "lo9. Whom would you associate. with the
 Censorship of the Press/Act 1794?",
   "Option_A": "(a) Charles Metcalfe",
   "Option_B": "(b) Andrew Frazer",
@@ -12697,13 +12690,15 @@ of the Theosophical Society in the year",
  },
  {
   "Question": "2,.Who had _ conceived and _ founded _ the
-Ramakrishna Mission?
- Swami Muktananda
-(b) Annie Besant
-(c) CR Das
-(d) Swami Vivekananda
-Ans: (d)
-23. The Dandi March undertaken by Gandhi.was",
+Ramakrishna Mission?",
+  "Option_A": "(a) Swami Muktananda",
+  "Option_B": "(b) Annie Besant",
+  "Option_C": "(c) CR Das",
+  "Option_D": "(d) Swami Vivekananda",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "23. The Dandi March undertaken by Gandhi.was",
   "Option_A": "(a) A routine March",
   "Option_B": "(b) A part of the Quit India Movement",
   "Option_C": "(c) Apart of the Civil Disobedience Movement",
@@ -12754,15 +12749,18 @@ INC?",
   "Option_B": "(b) S Subramanya lyer",
   "Option_C": "(c)\WC Banerji",
   "Option_D": "(d) Surendranath Bannerjee",
-  "Answer": "Ans: (129. The roots of the 1857 revolt lay in"
+  "Answer": "Ans: "
  },
  {
-  "Question": "a) Blatantly discriminatory policies
-(b) Exploitative land revenue policy
-(c) The policy of greased cartridges
- All of the above
-Ans: (d)
-30. Where had civil rebellions against the British
+  "Question": "(129. The roots of the 1857 revolt lay in",
+  "Option_A": "(a) Blatantly discriminatory policies",
+  "Option_B": "(b) Exploitative land revenue policy,
+  "Option_C": "(c) The policy of greased cartridges",
+  "Option_D": "All of the above",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "30. Where had civil rebellions against the British
 initially started?",
   "Option_A": "(a) Uttar Pradesh and Madhya Pradesh",
   "Option_B": "(b) Bengal and Bihar",
@@ -13740,16 +13738,15 @@ Sambalpur?",
   "Question": "33b. Who among the following had been a high
 court judge, an economist, a social reformer,
 among the founders or the INC, besides being
-regarded by A O Hume as his political guru?
- Surendranath Banerjee
-(b) Pheroze Shah Mehta
-(c) Mahadev Gobind Ranade
-(d) Dadabhai Naoroji
-Ans: (c)
-37. The Communal Award, which was
-subsequently changed following Gandhi's fast
-unto death in a jail at Poona, had been given
-by",
+regarded by A O Hume as his political guru?",
+  "Option_A": "(a) Surendranath Banerjee",
+  "Option_B": "(b) Pheroze Shah Mehta",
+  "Option_C": "(c) Mahadev Gobind Ranade",
+  "Option_D": "(d) Dadabhai Naoroji",
+  "Answer": "Ans: (c)"
+ },
+ {
+  "Question": "37. The Communal Award, which was subsequently changed following Gandhi's fast unto death in a jail at Poona, had been given by",
   "Option_A": "(a)Ramsay Mcdonald",
   "Option_B": "(b)Lloyd George",
   "Option_C": "(c)Stanley Baldwin",
@@ -14107,13 +14104,15 @@ the Constituent Assembly would be",
   "Question": "75>In the Cabinet Mission Plan, provision was
 made for the Commissioner's Provinces to
 represent by members in_ the
-Constituent Assembly.
- 14
-(b) 10
-(c) 8
-(d) 4
-Ans: (d)
-i7b.AS per Cabinet Mission Plan, the Princely
+Constituent Assembly.",
+  "Option_A": "(a) 14",
+  "Option_B": "(b) 10",
+  "Option_C": "(c) 8",
+  "Option_D": "(d) 4",
+  "Answer": "Ans: (d)"
+ },
+ {
+  "Question": "i7b.AS per Cabinet Mission Plan, the Princely
 States would be represented ».by
 members in the Constituent Assembly.",
   "Option_A": "(a) 90",
@@ -14209,21 +14208,15 @@ the Country's unity",
   "Answer": "Ans: (c)"
  },
  {
-  "Question": "38b. On Cabinet Mission, observed, "the
-proposals preserve the essential unity of India
-which la threatened by the dispute between
-two major communities".",
-  "Option_A": "(a) Lord Wavell",
-  "Option_B": "iB7. was primarily responsible for making",
-  "Option_C": "India a secular State.",
-  "Option_D": "(a) Gandhi",
-  "Answer": "(b) Patel"
+  "Question": "Who was primarily responsible for making India a secular State.",
+  "Option_A": "(a) Gandhi",
+  "Option_B": "(b) Patel",
+  "Option_C": "c) Jawaharlal Nehru",
+  "Option_D": "(d). Gokhale",
+  "Answer": "Ans? (c)"
  },
  {
-  "Question": "c) Jawaharlal Nehru
-(d). Gokhale
-Ans? (c)
-i88.Which, of the following influenced the makers
+  "Question": "188.Which, of the following influenced the makers
 of. Indian Constitution?",
   "Option_A": "(a) The Constitution of China",
   "Option_B": "(b) The Constitution of USSR",
