@@ -3255,7 +3255,7 @@ Which of the above statements is/are correct?",
   "Option_A": "a) 1 only ",
   "Option_B": "b) 2 only",
   "Option_C": "c) Both 1 and ",
-  "Option_D": "d) neither Tnor 2",
+  "Option_D": "d) neither 1 nor 2",
   "Answer": "Ans. A"
   },
  {
@@ -3367,11 +3367,13 @@ the Earth
 3. Saturn is the heaviest planet of the solar system
 Code:",
   "Option_A": "a).1 and 2 only ",
-  "Option_B": "b) 2 and 3 only
-e) 1 and Sonly 
-d) 1, 2 and 3
-AnsA
-31. Which one among the following statement/s is/are correct?
+  "Option_B": "b) 2 and 3 only",
+  "Option_C": "c) 1 and Sonly",
+  "Option_D": "d) 1, 2 and 3",
+  "Answer": "AnsA"
+  },
+ {
+  "Question": "31. Which one among the following statement/s is/are correct?
 1. Deciduous forests associated with temperate climate are found in
 Himalayan region at an altitude between 1600 and 3300 meters above
 sea level
@@ -3379,9 +3381,9 @@ sea level
 northern Australia
 3. Equatorial forests are found in Indonesia and Malaysia and the island
 groups close to the equator
-Code:
-a) 1 and 2 only 
-b) 2 and 3 only",
+Code:",
+  "Option_A": "a) 1 and 2 only",
+  "Option_B": "b) 2 and 3 only",
   "Option_C": "c) 1 and 3 only ",
   "Option_D": "d) All the above",
   "Answer": "Ans. B"
@@ -3467,15 +3469,15 @@ the border of Zambia; Zimbabwe and South Africa.
 3. ‘MULATTOS' which is.a,new race of people (South Afric",  "Option_A": "a) of mixed
 Black and Indian blood.
 Which of the.above'statements is/are incorrect?
-Code:
-a) Wwand:2 only ",
+Code:",
+  "Option_A": "a) 1 and 2 only ",
   "Option_B": "b) 2 only",
-  "Option_C": "c) 2.an",  "Option_D": "d)3)only ",
-  "Answer": "d) 3 only"
+  "Option_C": "c) 2 and 3",  
+  "Option_D": "d)3)only ",
+  "Answer": "Ans: C"
   },
  {
-  "Question": "Ans, C
-38. Match List-l (Mines) and List-II (Minerals) using the codes given
+  "Question": "38. Match List-l (Mines) and List-II (Minerals) using the codes given
 below:
 List-I List-I]
 A. Kimberley 1. Coal
@@ -3494,18 +3496,14 @@ ABCD",
   "Question": "39. From the Earth we always see,one side of the Moon while the other
 side always remains away from us. Which of the following can be the
 most suitable reason for this?",
-  "Option_A": "a) The speed of rotation of.earth is faster than that of speed of rotation of
-Moon on its axis",
-  "Option_B": "b) The speed of revolution, of earth around the Sun is faster than that of
-the speed of revolution of Moon around the Sun",
-  "Option_C": "c) The time'taken by Moon to revolve around the earth is same as that of
-the time.takemby it'to rotate on its axis",
-  "Option_D": "d) The time takén by Moon to revolve around the Sun is same as that of",
-  "Answer": "he time taken by earth to revolve around the Sun"
+  "Option_A": "a) The speed of rotation of.earth is faster than that of speed of rotation of Moon on its axis",
+  "Option_B": "b) The speed of revolution, of earth around the Sun is faster than that of the speed of revolution of Moon around the Sun",
+  "Option_C": "c) The time'taken by Moon to revolve around the earth is same as that of the time.takemby it'to rotate on its axis",
+  "Option_D": "d) The time takén by Moon to revolve around the Sun is same as that of he time taken by earth to revolve around the Sun",
+  "Answer": "Ans.°C"
   },
  {
-  "Question": "Ans.°C
-40. In the above outline map of South Africa 1, 2, 3 and 4 respectively
+  "Question": "40. In the above outline map of South Africa 1, 2, 3 and 4 respectively
 representing",
   "Option_A": "a) Pretoria, East London, Port Elizabeth and Cape Town",
   "Option_B": "b) Johannesburg, Durban, Port Elizabeth and Cape Town",
@@ -3544,12 +3542,14 @@ tlineveth, ",
   "Answer": "One-sixth of that of the earthy this particular vitational mutually till today."
   },
  {
-  "Question": ") 1 and 3 only 
-b) 2 only
-c) 2 and 3 only 
-d) None of the above
-Ans. A
-43. Apart from being the big source of irrigation and other facilities,.the
+  "Question": "1 and 3 only",
+  "Option_B": "b) 2 only",
+  "Option_C": "c) 2 and 3 only",
+  "Option_D": "d) None of the above",
+  "Answer": "Ans. A"
+  },
+ {
+  "Question": "43. Apart from being the big source of irrigation and other facilities,.the
 rivers sometimes make the borders between the countries. Consider the
 following rivers and its bordering countries.
 1. The Orinoco River — Colombia and Venezuela.
