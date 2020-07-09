@@ -2515,12 +2515,15 @@ correctly matched?",
   },
  {
   "Question": " Which, of the following Himalayan mountain range where the Kashmir
-Valley ‘lie?
-Aw Siwalik and Pir Panjal
-B. Pir Panjal and Dhauladhar
-C. Zaskar and Pir Panjal
-D. Dhauladhar and Zaskar
-7. Which of the following rivers do not discharge its water into the Bay of
+Valley ‘lie?",
+  "Option_A": "A. Siwalik and Pir Panjal",
+  "Option_B": "B. Pir Panjal and Dhauladhar",
+  "Option_C": "C. Zaskar and Pir Panjal",
+  "Option_D": "D. Dhauladhar and Zaskar",
+   "Answer": "c"
+  },
+ {
+  "Question": "7. Which of the following rivers do not discharge its water into the Bay of
 Bengal?",
   "Option_A": "A. Mahanadi",
   "Option_B": "B. Cauvery",
